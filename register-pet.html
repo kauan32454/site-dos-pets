@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar Pet</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <a href="index.html"><img src="Img/icon.jpg" alt="Logo"></a>
+    <nav>
+        <ul>
+            <li><a href="#">Quem somos</a></li>
+            <li><a href="#">Ajude</a></li>
+            <li><a href="#">Parcerias</a></li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="form-container" >
+        <h1>Cadastro de Pet</h1>
+        <form id="form-adicionar-pet" action="cadastrar_pet.php" enctype="multipart/form-data" method="POST">
+          <label for="nome">Nome do Pet:</label>
+          <input type="text" id="nome" required>
+      
+          <label for="raca">Raça:</label>
+          <input type="text" id="raca" required>
+      
+          <label for="idade">Idade:</label>
+          <input type="text" id="idade" required>
+      
+          <label for="cidade">Cidade:</label>
+          <input type="text" id="cidade" required>
+
+          <label for="Telefone">Telefone:</label>
+          <input type="tel" id="Telefone" required>
+      
+          <label for="descricao">Descrição:</label>
+          <textarea id="descricao" required></textarea>
+      
+          <label for="imagem">Imagem:</label>
+          <input type="file" id="imagem" accept="image/*" required>
+      
+          <button type="submit">Cadastrar Pet</button>
+      </form>
+      
+    </main>
+
+    <footer>
+        <p>2024 © Adoção de Pets | Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>

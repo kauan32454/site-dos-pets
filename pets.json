@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "nome": "Luna",
+    "img": "Img/pet1.jpg",
+    "descricao": "Luna é uma gatinha carinhosa e curiosa.",
+    "cidade": "São Paulo",
+    "idade": "2 anos",
+    "raca": "Siamês",
+    "telefone": "(11) 9876-4321"
+  },
+  {
+    "id": "2",
+    "nome": "Thor",
+    "img": "Img/caozinhoperfil.jpg",
+    "descricao": "Thor é um cachorro forte e protetor.",
+    "cidade": "Rio de Janeiro",
+    "idade": "3 anos",
+    "raca": "Rottweiler",
+    "telefone": "(21) 1234-5678"
+  },
+  {
+    "id": "3",
+    "nome": "Nina",
+    "img": "Img/pet3.jpg",
+    "descricao": "Nina é uma gata independente e elegante.",
+    "cidade": "Belo Horizonte",
+    "idade": "4 anos",
+    "raca": "Persa",
+    "telefone": "(31) 9876-1234"
+  },
+  {
+    "id": "4",
+    "nome": "Max",
+    "img": "Img/pet4.jpg",
+    "descricao": "Max é um cachorro alegre e brincalhão.",
+    "cidade": "Curitiba",
+    "idade": "2 anos",
+    "raca": "Golden Retriever",
+    "telefone": "(41) 4321-8765"
+  },
+  {
+    "id": "5",
+    "nome": "Mia",
+    "img": "Img/pet5.jpg",
+    "descricao": "Mia é uma gatinha muito amorosa e calma.",
+    "cidade": "Porto Alegre",
+    "idade": "1 ano",
+    "raca": "Bengal",
+    "telefone": "(51) 9876-5432"
+  },
+  {
+    "id": "6",
+    "nome": "Zeca",
+    "img": "Img/pet6.jpg",
+    "descricao": "Zeca é um cão aventureiro e companheiro.",
+    "cidade": "Florianópolis",
+    "idade": "5 anos",
+    "raca": "Beagle",
+    "telefone": "(48) 1234-9876"
+  },
+  {
+    "id": "7",
+    "nome": "Pipoca",
+    "img": "Img/pet7.jpg",
+    "descricao": "Pipoca é uma gata extrovertida e cheia de energia.",
+    "cidade": "Campinas",
+    "idade": "3 anos",
+    "raca": "Maine Coon",
+    "telefone": "(19) 8765-4321"
+  },
+  {
+    "id": "8",
+    "nome": "Toby",
+    "img": "Img/pet8.jpg",
+    "descricao": "Toby é um cachorro doce e muito obediente.",
+    "cidade": "Fortaleza",
+    "idade": "4 anos",
+    "raca": "Bulldog Francês",
+    "telefone": "(85) 4321-7654"
+  },
+    {
+      "id": "9",
+      "nome": "Simba",
+      "img": "Img/pet9.jpg",
+      "descricao": "Simba é um gato selvagem e misterioso.",
+      "cidade": "Salvador",
+      "idade": "2 anos",
+      "raca": "Maine Coon",
+      "telefone": "(71) 9876-5432"
+    },
+    {
+      "id": "10",
+      "nome": "Rex",
+      "img": "Img/pet10.jpg",
+      "descricao": "Rex é um cão protetor e fiel.",
+      "cidade": "Recife",
+      "idade": "3 anos",
+      "raca": "Pastor Alemão",
+      "telefone": "(81) 1234-5678"
+    },
+    {
+      "id": "11",
+      "nome": "Mel",
+      "img": "Img/pet11.jpg",
+      "descricao": "Mel é uma gata doce e muito brincalhona.",
+      "cidade": "Vitória",
+      "idade": "1 ano",
+      "raca": "Ragdoll",
+      "telefone": "(27) 9876-4321"
+    },
+    {
+      "id": "12",
+      "nome": "Bolt",
+      "img": "Img/pet12.jpg",
+      "descricao": "Bolt é um cachorro veloz e cheio de energia.",
+      "cidade": "Manaus",
+      "idade": "2 anos",
+      "raca": "Dálmata",
+      "telefone": "(92) 4321-8765"
+    }
+  ]
+  
